@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahana
 - 👀 I’m interested in learning , coding and developing stuffs
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently learning JS and React alongwith building strong foundation in DSA
 - 💞️ I’m looking to collaborate on projects which uses these tech stack
 - 📫 How to reach me ahanavats2003@gmail.com
 - 😄 Pronouns: ...
